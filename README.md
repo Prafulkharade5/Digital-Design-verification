@@ -1,7 +1,7 @@
 # Welcome to My Computer Architecture & RTL Design Repository 👋  
 
 ## About This Repository  
-This repository contains a collection of **Computer Architecture projects, Verification projects, and RTL Design implementations** that I have worked on as part of my academic and professional journey.  
+This repository contains a collection of **Computer Architecture projects, Design Verification projects, and RTL Design implementations** that I have worked on as part of my academic and professional journey.  
 
 ## About Me  
 Hi, I'm **Praful Kharade**, an **Electrical Engineering graduate student at UT Dallas**, passionate about **RTL design, verification, and digital system development**. I specialize in **ASIC design flow, FPGA implementations, and hardware verification methodologies**.  
